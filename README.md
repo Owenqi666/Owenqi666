@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Owen 👋
 
-<!--
-**Owenqi666/Owenqi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year BEng Electrical & Information Engineering student at Imperial College London,
+building quantitative trading research in Python.
 
-Here are some ideas to get you started:
+**Current focus**: statistical arbitrage, time-series econometrics, and Bayesian methods
+for financial data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent projects**:
+- `cointegration-pairs-trading` — stat arb with Walk-Forward validation + rolling coint
+- `monte-carlo-var` — GBM and GARCH(1,1) Value-at-Risk engine
+- `sma-ema-backtesting` — trend-following with parameter grid search
+
+**Interests**: quant research (targeting Optiver, UK Spring Weeks),
+applied ML, and the mathematics of risk.
