@@ -1,6 +1,5 @@
 ### Hi, I'm Owen 👋
-
-First-year BEng Electrical & Information Engineering student at Imperial College London,
+Second-year MEng Electrical & Information Engineering student at Imperial College London,
 building quantitative trading research in Python.
 
 **Current focus**: statistical arbitrage, time-series econometrics, and Bayesian methods
