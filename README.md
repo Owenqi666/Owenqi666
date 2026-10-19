@@ -1,6 +1,6 @@
 ### Hi, I'm Owen 👋
 
-I'm studying for an **MEng in Electronic and Information Engineering at Imperial College London**, with expected graduation in 2029.
+I'm studying for an **MEng in Electronic and Information Engineering at Imperial College London**
 
 My focus is **software engineering**: building APIs, data pipelines and systems with an emphasis on correctness, reliability and measurable performance. I'm especially interested in applying these skills to **AI agents** and **quantitative development**.
 
